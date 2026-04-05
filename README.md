@@ -13,7 +13,7 @@ The **AI Study Assistant** is a cutting-edge, full-stack ecosystem designed to e
 *   ** Voice Synthesis (TTS)**: Listen to AI-generated explanations on the go with integrated audio playback.
 *   ** PDF & Text Seamless Entry**: Drag-and-drop your PDF files or paste raw text directly into the processing engine.
 *   ** Premium UI/UX**: Switch between a sleek Dark Mode and a crisp Light Mode. Fully responsive design for mobile and tablet.
-*   ** Bilingual Support**: Native support for **English** and **Hindi (अध्ययन सहायक)**.
+*   ** Bilingual Support**: Native support for **English** and **Hindi**.
 
 ---
 
